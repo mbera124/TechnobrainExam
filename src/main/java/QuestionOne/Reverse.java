@@ -1,4 +1,4 @@
-package com.example.technobrainexam.QuestionThree;
+package QuestionOne;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
